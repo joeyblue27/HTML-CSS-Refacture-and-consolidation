@@ -10,7 +10,7 @@
 
 # Links
 <a href="https://joeyblue27.github.io/HTML-CSS-Refacture-and-consolidation"
-target="_blank">Deployed Link</a>
+target="_blank">Deployed</a>
 
 <a href="https://github.com/joeyblue27/HTML-CSS-Refacture-and-consolidation"
 target="_blank">Github Repo</a>
